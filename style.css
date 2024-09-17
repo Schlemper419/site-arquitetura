@@ -1,5 +1,32 @@
+/* CSS HEX */
+/* --red-pantone: #e63946ff;
+--honeydew: #f1faeeff;
+--non-photo-blue: #a8dadcff;
+--cerulean: #457b9dff;
+--berkeley-blue: #1d3557ff; */
+
+body{   background-color: #f1faeeff;
+
+
+}
+
 img{
     width: 300px;
     border: 5px solid black;
     border-radius: 10px;
 }
+
+h1{
+    color: rgb(255, 2, 2);
+}
+
+h2{
+    color: rgb(255, 2, 2);
+}
+
+h3{
+    color: rgb(34, 31, 170);
+}
+
+h4{
+    color: rgb(34, 31, 170) ;

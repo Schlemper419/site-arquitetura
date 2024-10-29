@@ -19,11 +19,16 @@ th{
 table{
     background-color: azure;
     width: 100%;
-    
+    border-radius: 10px;
 
 }
 
 body{
 
     background-color: rgb(110, 108, 108);
+}
+
+h1{
+    
+
 }

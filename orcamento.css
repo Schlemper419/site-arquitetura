@@ -1,0 +1,29 @@
+td{
+    border: 1px solid black;
+    padding: 2px;
+    text-align: center;
+    background-color: floralwhite;
+    border-radius: 6px;
+    color: black;
+}
+
+th{
+    border: 1px solid black;
+    padding: 2px;
+    text-align: center;
+    background-color: red;
+    border-radius: 6px;
+    color: bisque;
+}
+
+table{
+    background-color: azure;
+    width: 100%;
+    
+
+}
+
+body{
+
+    background-color: rgb(110, 108, 108);
+}
